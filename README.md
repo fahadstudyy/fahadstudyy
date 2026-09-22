@@ -1,4 +1,4 @@
-<h1 align="center">Fahad Waseem</h1>
+<h1 align="center">Hi, I'm Fahad Waseem 👋</h1>
 <p align="center">Python Backend Developer · API & Automation Engineer</p>
 
 ## About Me
@@ -9,7 +9,7 @@ I build backend systems, REST APIs, and automation workflows that connect real b
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=fahadstudyy&show_icons=true&theme=radical&hide_border=true" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadstudyy&layout=compact&theme=radical&hide_border=true" /></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahadstudyy&show_icons=true&theme=radical&hide_border=true" /></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadstudyy&layout=compact&theme=radical&hide_border=true" /></td>
 </tr>
 </table>
