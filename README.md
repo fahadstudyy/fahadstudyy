@@ -1,20 +1,15 @@
-# Hey, I'm Fahad Waseem 👋
+<h1 align="center">Fahad Waseem</h1>
+<p align="center">Python Backend Developer · API & Automation Engineer</p>
 
-Python Backend Developer · API & Automation Engineer — Paris, France
+## About Me
 
-[LinkedIn](https://linkedin.com/in/fahad-waseem) · [Email](mailto:fahadwaseem756@gmail.com) · [Portfolio](https://portfolio.fahadd.workers.dev)
+I build backend systems, REST APIs, and automation workflows that connect real business systems together — Python, Django, Flask, AWS Lambda, HubSpot, n8n. Over the past 3+ years I've focused on making data move reliably between systems instead of chasing complexity for its own sake. I'm currently expanding into networks and IoT through a Master's at Cnam, Paris, aiming to bring that same practical, reliability-first approach to systems at the infrastructure level.
 
-## About
+<br>
 
-Backend developer with 3+ years of experience building REST APIs, automation workflows, and system integrations (Python, Django, Flask, AWS Lambda, HubSpot, n8n). Currently studying for a Master 2 in Computer Networks and IoT Systems at Cnam, Paris (2026–2027).
-
-## Tech Stack
-
-Python · Django · Flask · SQL (PostgreSQL/MySQL) · AWS Lambda · Git · HubSpot · n8n
-
-## Featured Projects
-
-- [rpl-iot-intrusion-detection](https://github.com/fahadstudyy/rpl-iot-intrusion-detection) — ML classifier for RPL routing-protocol attacks in IoT networks
-- [student-attendance-system-fyp](https://github.com/fahadstudyy/student-attendance-system-fyp) — Final Year Project: face-recognition attendance system
-- [sensible](https://github.com/fahadstudyy/sensible) — real-time interview practice dashboard
-- [formpilot](https://github.com/fahadstudyy/formpilot) — Chrome extension that autofills job applications
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=fahadstudyy&show_icons=true&theme=radical&hide_border=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadstudyy&layout=compact&theme=radical&hide_border=true" /></td>
+</tr>
+</table>
